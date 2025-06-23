@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\bin\Debug\net8.0\Auth.Application.deps.json
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\bin\Debug\net8.0\Auth.Application.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\bin\Debug\net8.0\Auth.Application.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\bin\Debug\net8.0\Auth.Core.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\bin\Debug\net8.0\Auth.Core.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.csproj.CopyComplete
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\refint\Auth.Application.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\Auth.Application.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Application\obj\Debug\net8.0\ref\Auth.Application.dll

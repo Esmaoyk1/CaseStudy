@@ -1,0 +1,17 @@
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.deps.json
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Infrastructure.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Core.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\bin\Debug\net8.0\Auth.Core.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.csproj.CopyComplete
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\refint\Auth.Infrastructure.dll
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.pdb
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\Auth.Infrastructure.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\CaseStudy\MicroservicesCaseStudy\Auth.Infrastructure\obj\Debug\net8.0\ref\Auth.Infrastructure.dll
