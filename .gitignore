@@ -1,0 +1,8 @@
+# Visual Studio dosyaları
+.vs/
+*.suo
+*.user
+*.futdcache.v2
+*.dtbcache.v2
+*.vsidx
+*.bin
